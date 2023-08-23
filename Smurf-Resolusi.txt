@@ -1,3 +1,5 @@
 Smurf Resolusi
 - Berdoa Pagi dan membaca alkitab setiap Pagi
 - Berdoa malam dan membaca kitab amsal berdasarkan tanggal
+- Membuat Website Portofolio sederhana hingga fasih
+- Belajar Javascript dan PHP serta frameworknya
