@@ -1,0 +1,6 @@
+Rencana Harian
+
+- Belajar Git
+- Semua program yang di buat di upload ke github
+- Membuat portofolio
+- Membuat website sederhana (Hingga fasih HTML CSS)
